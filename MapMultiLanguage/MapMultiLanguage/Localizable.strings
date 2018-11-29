@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MapMultiLanguage
+
+  Created by iOS Dev on 15/11/2561 BE.
+  Copyright © 2561 iOS Dev. All rights reserved.
+*/
+
+"Cannot Access Location" = "เข้าถึงตำแหน่งไม่ได้";
+"Please allow the App to access location service." = "กรุณาเปิดด้วย เข้าใจไหม!!";
+"Yeah" = "รับแซ่บ";
